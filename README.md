@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on: a handwritten Telugu OCR system and full-stack web projects
-- 🌱 I’m currently learning: advanced Java, system design, and frontend frameworks
-- 👯 I’m looking to collaborate on: innovative projects in software development and automation
+- 🔭 I’m currently working on: A handwritten Telugu OCR system and full-stack web projects
+- 🌱 I’m currently learning: Advanced Java, system design, and frontend frameworks
+- 👯 I’m looking to collaborate on: Innovative projects in software development and automation
 - 🧩 I like solving algorithmic challenges for fun and learning
 - 💡 I believe in lifelong learning and helping others grow in tech
 
